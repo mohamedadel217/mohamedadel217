@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedadel217&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedadel217" /> </p>
 
-- 🔭 I’m currently working on [TUI App]([https://play.google.com/store/apps/details?id=com.jumia.android&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.thomson.mythomson))
+- 🔭 I’m currently working on [TUI App](https://play.google.com/store/apps/details?id=com.jumia.android&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.thomson.mythomson))
 
-- 🌱 I’m currently learning **IOS develpment**
+- 🌱 I’m currently learning **IOS development**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
